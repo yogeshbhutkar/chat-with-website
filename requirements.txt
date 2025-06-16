@@ -9,7 +9,7 @@ async-timeout==4.0.3
 attrs==25.3.0
 backoff==2.2.1
 bcrypt==4.3.0
-beautifulsoup4 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_94rx5n7wo9/croot/beautifulsoup4-split_1718029832430/work
+beautifulsoup4==4.13.4
 blinker==1.9.0
 build==1.2.2.post1
 cachetools==5.5.2
